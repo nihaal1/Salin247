@@ -1,0 +1,5 @@
+# request
+bool switchVacuum # True means vacuum is on, False means vacuum is off
+---
+# response
+bool vacuum_success
