@@ -1,0 +1,5 @@
+# request
+int32 toggleState # -1 means low, 1 means raise, 0 means stop
+---
+# response
+bool bar_success 
